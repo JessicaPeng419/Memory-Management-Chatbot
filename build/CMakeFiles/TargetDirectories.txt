@@ -1,0 +1,3 @@
+/Users/pp/Downloads/MemoryManagementChatbot-main/build/CMakeFiles/membot.dir
+/Users/pp/Downloads/MemoryManagementChatbot-main/build/CMakeFiles/edit_cache.dir
+/Users/pp/Downloads/MemoryManagementChatbot-main/build/CMakeFiles/rebuild_cache.dir

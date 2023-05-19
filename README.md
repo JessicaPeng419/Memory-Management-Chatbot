@@ -1,4 +1,4 @@
-# CPPND: Memory Management Chatbot
+# Memory Management Chatbot
 
 ## Dependencies for Running Locally
 * cmake >= 3.11
